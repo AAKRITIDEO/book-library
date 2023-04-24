@@ -1,0 +1,19 @@
+.search-box button{
+    padding: 0.7rem 1.4rem 0.7rem 1.4rem;
+    background-color: white;
+    border: 1px solid #353434;
+    color: #757575;
+    
+    cursor: pointer;
+    transition: 0.5s ease-in-out;
+    margin-left: 10px;
+}
+
+.search-box button:hover {
+    background-color: #353434;
+    color: white;
+    animation: hover 0.3s ease-in-out;
+}
+.search-box{
+    margin-bottom: 40px;
+}

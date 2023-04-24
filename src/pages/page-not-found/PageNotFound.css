@@ -1,0 +1,35 @@
+.pnf-header{
+    margin-left: 50px;
+    height: 100%;
+    background-size:cover;
+    
+  }
+  .pnf-header h1{
+    font-size: 65px;
+    margin-top: 0;
+    color: rgb(239, 235, 222);
+    padding-right: 40px;
+    padding-top: 60px;
+    text-transform: capitalize;
+    text-shadow: rgb(0, 0, 0) 2px 2px 3px;
+    font-family: cursive;
+  }
+  .pnf-header p{
+    font-size: 25px;
+     padding-right: 40px;
+     color:rgb(239, 235, 222);
+     margin-top: 50px;
+     
+   }
+   .pnf-header a{
+    color: rgb(239, 235, 222);
+    text-shadow: rgb(0, 0, 0) 2px 2px 3px;
+    text-decoration: none;
+    font-family: ui-serif;
+    font-size: 25px;
+    margin-top: 50px;
+   }
+   .pnf-header a:hover {
+    color: #f6d808;
+  }
+  

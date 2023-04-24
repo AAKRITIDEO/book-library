@@ -1,0 +1,42 @@
+.books-content h1{
+    background: "white";
+    border-radius: "1rem";
+    color: "#DB4437";
+    padding: "1rem";
+    position: "absolute";
+    top: "50%";
+    left: "50%";
+    font-size: 33;
+    font-family: "Inria Serif";
+    transform: "translate(-50%,-50%)";
+    text-transform: "capitalize";
+}
+.books-content h2{
+    text-transform: capitalize;
+    color: rgb(247, 15, 15);
+    font-size: 50px;
+    font-family: Scheherazade New;
+    margin-top: 40px;
+}
+.container{
+
+    padding: "2rem 0rem"
+}
+.custom-card h3{
+    font-size: "1.32rem";
+     color:white;
+}
+.custom-card img{
+    width: 100%;
+}
+
+.custom-card p{
+    font-size: 1rem;
+     color:white;
+     line-height: 25px;
+}
+.custom-card p span{
+    font-size: 1rem;
+     color:black;
+     font-weight: bold;
+}

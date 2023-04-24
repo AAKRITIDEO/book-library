@@ -1,0 +1,16 @@
+.book-details button{
+    width: 71%;
+    height: 100%;
+    padding: 8px;
+    
+}
+
+.book-details button:hover {
+    background-color: #353434;
+    color: white;
+    animation: hover .5s ease-in-out;
+}
+
+.book-details {
+    margin-top: 3%;
+}

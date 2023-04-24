@@ -1,0 +1,18 @@
+.loading-card h4{
+    padding-bottom: 1rem;
+    color: black;
+    font-weight: "bold";
+    color: "#3B3B3B";
+}
+
+.loading-card h5{
+    padding-bottom: 1rem;
+    color: black;
+}
+.loading-card h5 span{
+    font-weight: bold;
+    color: #3B3B3B;
+}
+.loading-card h3{
+    padding-top: 10px;
+}

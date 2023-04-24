@@ -1,0 +1,21 @@
+.about{
+    margin: 10px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+    background-color: #e9e7e4ba;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+.about-info p{
+    line-height: 22px;
+    text-align: justify;
+}
+.about-info h2{
+    text-align: left;
+    margin-bottom: 10px;
+}
+.about-content{
+width: 250%;
+    
+}
